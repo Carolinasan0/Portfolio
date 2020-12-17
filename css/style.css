@@ -7639,4 +7639,19 @@ a, img {
 		margin: 0;
 		padding: 0;
 	}
+	.deco_box {
+		padding: 20px 5px 0 5px;
+	}
+	h1.big.s1 {
+		font-size: 55px;
+	}
+	.social-icons.s2 {
+		margin-top: 25px;
+	}
+	.spacer-double {
+		height: 40px;
+	}
+	.container .col-md-4 {
+		margin-bottom: 15px;
+	}
 }
